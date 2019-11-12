@@ -375,11 +375,7 @@ Now that you have created these two files, double click on `app.py`. You will se
 Everything is normal. Go now to [http://localhost:8000](http://localhost:8000). You will see your website. 
 
 {:refdef: style="text-align: center;"}
-<<<<<<< HEAD
 ![Website Python Terminal]({{ site.baseurl }}/images/running_website.jpg )
-=======
-![Website Python Terminal]({{ site.baseurl }}/images/jekyll-logo.png )
->>>>>>> f60945394e94ea9d750164af34cab3e0a4066879
 {: refdef}
 
 However, with this method, your website is running locally, i.e. only on tyour computer.
