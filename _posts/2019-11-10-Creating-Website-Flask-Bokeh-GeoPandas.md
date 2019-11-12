@@ -375,7 +375,7 @@ Now that you have created these two files, double click on `app.py`. You will se
 Everything is normal. Go now to [http://localhost:8000](http://localhost:8000). You will see your website. 
 
 {:refdef: style="text-align: center;"}
-![Website Python Terminal]({{ site.baseurl }}/images/running_website.png )
+![Website Python Terminal]({{ site.baseurl }}/images/running_website.jpg )
 {: refdef}
 
 However, with this method, your website is running locally, i.e. only on tyour computer.
