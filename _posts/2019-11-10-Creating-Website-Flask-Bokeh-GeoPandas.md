@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to create an interactive plot and insert it in a website. All in Python (Flask-Bokeh-GeoPandas)
+title: How to create an interactive plot and insert it in a website. All in Python (Flask Bokeh GeoPandas)
 ---
 
 You have a dataset. How do you plot this dataset into a website? Well guess what, here again Python can do all of that. From opening the dataset to creating a webpage including the interactive plot you did, there is nothing Python cannot do! 
